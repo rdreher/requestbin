@@ -6,7 +6,7 @@ Want to self-host your own RequestBin?
 =====================
 Run [RequestBin](https://github.com/Runscope/requestbin) from a Docker container.
 
-[![Deploy](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frdreher%2Frequestbininazure%2Fmaster%2Fazuredeploy.json)
+[![Deploy](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/rdreher/requestbin/master/deployment/azuredeploy.json)
 
 ## Deploy your own instance using Docker on Azure
 
