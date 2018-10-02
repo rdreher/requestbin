@@ -96,7 +96,7 @@
             "metadata": {
                 "description": "Source for the function app that proxies https traffic."
             },
-            "defaultValue": "https://github.com/rdreher/requestbininazure.git"
+            "defaultValue": "https://github.com/rdreher/requestbin.git"
           },
           "branch":{
               "type": "string",
