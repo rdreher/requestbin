@@ -15,8 +15,8 @@ This is a self-hosted version of RequestBin that runs on Azure Container Instanc
 Running the RequestBin web site on Azure have the following costs associated with its resources:
 
 * Azure Function (Dynamic Plan) - Pay Per Use
-* Azure Container Instance 1 CPU / 1 GB Ram for the RequestBin web site 
-* Azure Container Instance 1 CPU / 1 GB Ram for thr redis cache
+* Azure Container Instance 1 CPU / 1 GB RAM for the RequestBin web site 
+* Azure Container Instance 1 CPU / 1 GB RAM for the Redis cache
 
 ### Accessing the site
 After the template deployment is complete you can access RequestBin web site using the following urls: 
